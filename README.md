@@ -3,7 +3,7 @@ PLAYING = Playing **Game**
 
 WATCHING = Watching **Movie**
 
-LISTENING = Listening **To Music**
+LISTENING = Listening To **Music**
 
 STREAMING = Streaming **Game**
 
